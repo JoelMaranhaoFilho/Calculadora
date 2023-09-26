@@ -1,0 +1,15 @@
+.calculator__keys { 
+    display: grid; 
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 20%;
+    gap: 0.5%;
+    text-align: center;
+  }
+
+  body{
+    align-items: center;
+    display: flex;
+    
+  }
+
+  https://www.freecodecamp.org/portuguese/news/como-construir-uma-calculadora-html-do-zero-usando-javascript/
